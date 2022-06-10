@@ -54,6 +54,13 @@
     width: 20px;
     margin-right: 5px;
 }
+.text a{
+    text-decoration: none;
+    display: inline-flex;
+    align-items: center;
+    height: 5px;
+    color: #000;
+}
 .links{
     display: flex;
     align-items: center;
@@ -90,10 +97,4 @@
     border-radius: 50%;
     cursor: pointer;
 }
-.text a{
-    text-decoration: none;
-    display: inline-flex;
-    align-items: center;
-    height: 5px;
-    color: #000;
-}
+
